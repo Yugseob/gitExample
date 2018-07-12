@@ -1,2 +1,3 @@
 Hello world
 git example
+append new line
